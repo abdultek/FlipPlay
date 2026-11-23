@@ -1,0 +1,18 @@
+
+# Dependencies frontend
+node_modules/
+
+# Laravel dependencies
+backend/vendor/
+
+# Laravel environment
+backend/.env
+
+# Laravel generated files
+backend/bootstrap/cache/*
+!backend/bootstrap/cache/.gitignore
+backend/storage/*.key
+
+# System files
+.DS_Store
+Thumbs.db

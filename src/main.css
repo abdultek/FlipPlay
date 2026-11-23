@@ -1,0 +1,11 @@
+
+@import "tailwindcss";
+
+@theme {
+    --color-venom-bg: #050805;
+    --color-venom-card: #0d160e;
+    --color-venom-green: #22c55e;
+    --color-venom-hover: #16a34a;
+    --color-venom-lime: #84cc16;
+    --color-venom-text: #f0fdf4;
+}
